@@ -49,7 +49,7 @@ set(INCLUDE_INSTALL_DIR include/${PROJECT_NAME} CACHE PATH "Where to install hea
 #   Build options
 #
 #
-option(BUILD_CLAR      "Build Tests using the Clar suite"    ON)
+option(BUILD_CLAR      "Build Tests using the Clar suite"    OFF)
 
 #
 #
